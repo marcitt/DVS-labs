@@ -1,3 +1,0 @@
-# DVS-labs
-
-hello
